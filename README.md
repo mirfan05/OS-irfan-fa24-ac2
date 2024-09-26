@@ -1,5 +1,5 @@
 # Lab Assignment 2: Implementing a Simple Shell in C
-
+- Due: One Week
 ## Objectives
 - Understand process creation and management in C using system calls.
 - Learn to handle user input and command parsing.
